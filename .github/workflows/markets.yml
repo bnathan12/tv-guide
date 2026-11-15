@@ -1,0 +1,28 @@
+name: Update other-city stations
+
+on:
+  schedule:
+    - cron: '37 8 * * *'    # once a day, about 3-4 am Boston time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  markets:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch listings
+        shell: pwsh
+        run: ./markets.ps1
+      - name: Publish to the "markets" branch (replaced each day, no history)
+        run: |
+          cd out
+          git init -q -b markets
+          git config user.name "guide-bot"
+          git config user.email "guide-bot@users.noreply.github.com"
+          git add -A
+          git commit -qm "Stations $(date -u +%F)"
+          git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" markets
