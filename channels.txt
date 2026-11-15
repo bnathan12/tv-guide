@@ -1,0 +1,25 @@
+# Channels to keep. One call sign per line (main channel only).
+# Lineups are fetched in fetch.ps1; a call sign found in several is taken once.
+WBZ
+WCVB
+WHDH
+WFXT
+WBTS
+WGBH
+WGBX
+WLVI
+WSBK
+WBPX
+WMUR
+WENH
+WNEU
+WUNI
+WUTF
+WMFP
+WWJE
+WPXG
+NESN
+NESNPL
+NBCSB
+NBCSBP
+SNNECN
