@@ -1,0 +1,196 @@
+# One zip per TV market (antenna lineup). Boston/NH are in fetch.ps1 already.
+10001 New York
+90012 Los Angeles
+60601 Chicago
+19103 Philadelphia
+75201 Dallas
+94102 San Francisco
+20001 Washington
+77002 Houston
+30303 Atlanta
+85004 Phoenix
+98101 Seattle
+33602 Tampa
+55401 Minneapolis
+48226 Detroit
+80202 Denver
+32801 Orlando
+33130 Miami
+44113 Cleveland
+95814 Sacramento
+28202 Charlotte
+97204 Portland OR
+27601 Raleigh
+63101 St Louis
+46204 Indianapolis
+15222 Pittsburgh
+37203 Nashville
+21202 Baltimore
+84101 Salt Lake City
+92101 San Diego
+06103 Hartford
+78205 San Antonio
+43215 Columbus OH
+64106 Kansas City
+78701 Austin
+45202 Cincinnati
+53202 Milwaukee
+29601 Greenville SC
+33401 West Palm Beach
+89101 Las Vegas
+32202 Jacksonville
+49503 Grand Rapids
+17101 Harrisburg
+23510 Norfolk
+35203 Birmingham
+73102 Oklahoma City
+27401 Greensboro
+87102 Albuquerque
+40202 Louisville
+38103 Memphis
+70112 New Orleans
+02903 Providence
+14202 Buffalo
+93721 Fresno
+23219 Richmond
+18701 Wilkes-Barre
+72201 Little Rock
+36602 Mobile
+37902 Knoxville
+33901 Fort Myers
+12207 Albany NY
+74103 Tulsa
+40507 Lexington
+85701 Tucson
+99201 Spokane
+50309 Des Moines
+54301 Green Bay
+96813 Honolulu
+24011 Roanoke
+67202 Wichita
+48502 Flint
+68102 Omaha
+65806 Springfield MO
+35801 Huntsville
+29201 Columbia SC
+53703 Madison
+04101 Portland ME
+14604 Rochester NY
+78596 Weslaco
+25301 Charleston WV
+76701 Waco
+13202 Syracuse
+42001 Paducah
+71101 Shreveport
+61820 Champaign
+79901 El Paso
+31401 Savannah
+52401 Cedar Rapids
+70801 Baton Rouge
+29401 Charleston SC
+39201 Jackson MS
+37402 Chattanooga
+46601 South Bend
+37660 Kingsport
+05401 Burlington VT
+52801 Davenport
+15901 Johnstown
+47708 Evansville
+44503 Youngstown
+68508 Lincoln
+29501 Florence SC
+46802 Fort Wayne
+32301 Tallahassee
+89501 Reno
+01103 Springfield MA
+83702 Boise
+57104 Sioux Falls
+75701 Tyler
+30901 Augusta
+61602 Peoria
+36104 Montgomery
+58102 Fargo
+49684 Traverse City
+31201 Macon
+97401 Eugene
+93101 Santa Barbara
+98901 Yakima
+70501 Lafayette LA
+93901 Salinas
+31901 Columbus GA
+93301 Bakersfield
+54601 La Crosse
+78401 Corpus Christi
+79101 Amarillo
+95928 Chico
+38804 Tupelo
+28401 Wilmington NC
+61101 Rockford
+54403 Wausau
+71201 Monroe LA
+66603 Topeka
+65201 Columbia MO
+77701 Beaumont
+55802 Duluth
+97501 Medford
+79401 Lubbock
+16501 Erie
+76301 Wichita Falls
+64801 Joplin
+51101 Sioux City
+31701 Albany GA
+21801 Salisbury
+79761 Odessa
+47807 Terre Haute
+55901 Rochester MN
+99501 Anchorage
+13901 Binghamton
+04401 Bangor
+32401 Panama City
+92262 Palm Springs
+58701 Minot
+39530 Biloxi
+75090 Sherman
+79601 Abilene
+83402 Idaho Falls
+32601 Gainesville
+62301 Quincy
+26301 Clarksburg
+39401 Hattiesburg
+59802 Missoula
+59101 Billings
+36301 Dothan
+38301 Jackson TN
+70601 Lake Charles
+57701 Rapid City
+49855 Marquette
+22801 Harrisonburg
+72401 Jonesboro
+42101 Bowling Green
+78040 Laredo
+81501 Grand Junction
+39301 Meridian
+45801 Lima
+59401 Great Falls
+26101 Parkersburg
+83301 Twin Falls
+38930 Greenwood MS
+95501 Eureka
+82001 Cheyenne
+76903 San Angelo
+56001 Mankato
+64501 St Joseph
+59701 Butte
+82601 Casper
+99701 Fairbanks
+47901 Lafayette IN
+77901 Victoria
+99801 Juneau
+69101 North Platte
+95202 Stockton
+93454 Santa Maria
+97701 Bend
+77801 Bryan
+99336 Kennewick
+58501 Bismarck
+93436 Lompoc
